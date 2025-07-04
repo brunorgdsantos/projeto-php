@@ -1,0 +1,5 @@
+Comands PHP
+
+composer create-project laravel/laravel notes - Para criar um projeto do zero
+php artisan serve - Para subir o servidor localhost
+php artisan make:controller - Comando para criar um novo Controller
