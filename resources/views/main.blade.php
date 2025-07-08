@@ -10,5 +10,6 @@
 <body>
     <h1>Welcome View and Blade!!!</h1>
     <h3>O valor é: <?= $value ?></h3>
+    <h3>O valor é: {{$value}}</h3> <!--Mesma coisa da linha 12-->
 </body>
 </html>
