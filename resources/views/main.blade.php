@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>Welcome View and Blade!!!</h1>
+    <h3>O valor é: <?= $value ?></h3>
 </body>
 </html>
