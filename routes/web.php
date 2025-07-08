@@ -11,4 +11,4 @@ Route::get('/about', function () {
     return "Abou Us";
 });
 
-Route::get('/main', [MainController::class, 'index']);
+Route::get('/main/{value}', [MainController::class, 'index']); //{value} permite passar variaveis
